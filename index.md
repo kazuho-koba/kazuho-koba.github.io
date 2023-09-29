@@ -18,7 +18,7 @@ contact: kazuho.kobayashi.ynu[at]gmail.com
 - Kobayashi K, Higuchi T, Ueno S, "Connectivity maintenance for robotic swarms by distributed role switching algorithm," *Artificial Life and Robotics*, vol.27, no.4, pp.876-884, 2022, DOI: 10.1007/s10015-022-00803-5, ([web page](https://link.springer.com/article/10.1007/s10015-022-00803-5), [Full-text PDF](https://ynu.repo.nii.ac.jp/record/12170/files/Connectivity_Maintenance_for_Robotic_Swarms_by_Distributed_Role_Switching_Algorithm.pdf))
 
 ### 学会発表
-- 小林一穂, 上野誠也, 樋口丈浩, "群ロボットのパトロール行動評価における任務環境表現の影響," *第41回日本ロボット学会学術講演会*, 2023, 1K1-02, ([Full-text PDF]())
+- 小林一穂, 上野誠也, 樋口丈浩, "群ロボットのパトロール行動評価における任務環境表現の影響," *第41回日本ロボット学会学術講演会*, 2023, 1K1-02, (Full-text PDF)
 - 小林一穂, 樋口丈浩, 上野誠也, "群ロボットのパトロール任務における基地局による状況認識の定量評価指標," *ロボティクス・メカトロニクス講演会2023*, 2023, 11-G01, ([Full-text PDF](https://ynu.repo.nii.ac.jp/record/2000024/files/1P1-G01.pdf))
 - Kobayashi K, Higuchi T, Ueno S, "Hierarchical Control and Subgroup Formation for Robotic Swarms in Patrol Missions," *IEEE 9th International Conference on Automation, Robotics, and Applications*, 2023, (同タイトルにてJournal Trackとして採択, 本学会で口頭発表)
 - Kobayashi K, Higuchi T, Ueno S, "Hierarchical and Distributed Patrol Strategy for Robotic Swarms with Continuous Connectivity," *Proceedings of the Joint Symposium of AROB-ISBC-SWARM2023*, pp.1491-1496, 2023, ([Full-text PDF](https://ynu.repo.nii.ac.jp/record/12283/files/2_OS23-1.pdf))
