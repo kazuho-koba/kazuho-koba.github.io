@@ -15,6 +15,9 @@
 - 小林一穂, 樋口丈浩, 上野誠也, "基地局との接続を維持する群ロボットの分散・階層型巡回監視アルゴリズム," *第 35 回自律分散システム・シンポジウム予稿集*, 2023, pp.83-88, ([Full-text PDF](https://ynu.repo.nii.ac.jp/record/12282/files/1_1C2-2.pdf))
 - Kobayashi K, Higuchi T, Ueno S, "Connectivity Maintenance for Robotic Swarms by Distributed Role Allocation Algorithm," *Proceedings of the Joint Symposium of AROB-ISBC-SWARM2022*, pp.897-902, 2022, ([Full-text PDF](https://ynu.repo.nii.ac.jp/record/11601/files/AROB2022.pdf))
 
+### ほか
+- Kobayashi K, Ueno S, Higuchi T, "Multi-Robot Patrol Algorithm with Distributed Coordination and Consciousness of the Base Station's Situation Awareness," *arXiv preprint arXiv:2307.08966*, 2023, ([web page](https://arxiv.org/abs/2307.08966), [Full-text PDF](https://arxiv.org/pdf/2307.08966.pdf))
+
 ## 受賞
 - Award for the 1st place, for "Multi-Robot Inspection and Monitoring Virtual Challenge", in *The IEEE RAS Summer School on Multi-Robot Systems*, 2023 ([web page](https://www.ynu.ac.jp/hus/engk2/30502/detail.html))
 - Young Author Award, for "Hierarchical and Distributed Patrol Strategy for Robotic Swarms with Continuous Connectivity," in *Joint Symposium of AROB-ISBC-SWARM2023*, 2023 ([web page](https://www.ynu.ac.jp/hus/engk2/29824/detail.html))
