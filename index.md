@@ -3,6 +3,7 @@
 
 ## 出版物（筆頭のみ）
 - [全リストはこちら](https://scholar.google.co.jp/citations?hl=ja&user=eyE2QcQAAAAJ&view_op=list_works&sortby=pubdate)
+
 ### 論文
 - Kobayashi K, Higuchi T, Ueno S, "Hierarchical Control and Subgroup Formation for Robotic Swarms in Patrol Missions," *International Journal of Mechanical Engineering and Robotics Research*, vol.12, no.5, pp.258-263,2023, DOI: 10.18178/ijmerr.12.5.258-263, ([web page](http://www.ijmerr.com/show-232-1871-1.html), [Full-text PDF](http://www.ijmerr.com/2023/IJMERR-V12N5-258.pdf))
 - Kobayashi K, Higuchi T, Ueno S, "Connectivity maintenance for robotic swarms by distributed role switching algorithm," *Artificial Life and Robotics*, vol.27, no.4, pp.876-884, 2022, DOI: 10.1007/s10015-022-00803-5, ([web page](https://link.springer.com/article/10.1007/s10015-022-00803-5), Full-text PDF)
