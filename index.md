@@ -14,7 +14,7 @@ contact: kazuho.kobayashi.ynu[at]gmail.com
 - [IEEE RAS Summer School on Multi Robot Systems 2023への参加記録](https://kazuho-koba.github.io/MRS-SummerSchool2023)
 
 ## 出版物（筆頭のみ）
-- [全リストはこちら](https://scholar.google.co.jp/citations?hl=ja&user=eyE2QcQAAAAJ&view_op=list_works&sortby=pubdate)
+- [全リスト](https://scholar.google.co.jp/citations?hl=ja&user=eyE2QcQAAAAJ&view_op=list_works&sortby=pubdate)
 
 ### 論文（査読付き）
 - Kobayashi K, Higuchi T, Ueno S, "Hierarchical Control and Subgroup Formation for Robotic Swarms in Patrol Missions," *International Journal of Mechanical Engineering and Robotics Research*, vol.12, no.5, pp.258-263,2023, DOI: 10.18178/ijmerr.12.5.258-263, ([web page](http://www.ijmerr.com/show-232-1871-1.html), [Full-text PDF](http://www.ijmerr.com/2023/IJMERR-V12N5-258.pdf))
