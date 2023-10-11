@@ -31,7 +31,7 @@ contact: kazuho.kobayashi.ynu[at]gmail.com
 - 小林一穂, 樋口丈浩, 上野誠也, "基地局との接続を維持する群ロボットの分散・階層型巡回監視アルゴリズム," *第 35 回自律分散システム・シンポジウム予稿集*, 2023, pp.83-88, ([Full-text PDF](https://ynu.repo.nii.ac.jp/record/12282/files/1_1C2-2.pdf))
 
 ### ほか
-- Kobayashi K, Ueno S, Higuchi T, "Multi-Robot Patrol Algorithm with Distributed Coordination and Consciousness of the Base Station's Situation Awareness," *arXiv preprint arXiv:2307.08966*, 2023, ([web page](https://arxiv.org/abs/2307.08966), [Full-text PDF](https://arxiv.org/pdf/2307.08966.pdf))
+- Kobayashi K, Ueno S, Higuchi T, "Multi-Robot Patrol Algorithm with Distributed Coordination and Consciousness of the Base Station's Situation Awareness," *arXiv preprint arXiv:2307.08966*, 2023, ([web page](https://arxiv.org/abs/2307.08966v1), [Full-text PDF](https://arxiv.org/pdf/2307.08966v1.pdf))
 
 ## 受賞
 - Award for the 1st place, for "Multi-Robot Inspection and Monitoring Virtual Challenge", in *The IEEE RAS Summer School on Multi-Robot Systems*, 2023 ([web page](https://www.ynu.ac.jp/hus/engk2/30502/detail.html))
