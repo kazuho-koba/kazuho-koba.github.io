@@ -38,6 +38,13 @@ contact: kazuho.kobayashi.ynu[at]gmail.com
 - Young Author Award, for "Hierarchical and Distributed Patrol Strategy for Robotic Swarms with Continuous Connectivity," in *Joint Symposium of AROB-ISBC-SWARM2023*, 2023 ([web page](https://www.ynu.ac.jp/hus/engk2/29824/detail.html))
 
 ## 経歴
-- 2021.4-         横浜国立大学大学院 理工学府 機械・材料・海洋系工学専攻 博士課程後期在学中
-- 2012.4-2014.3   東京大学大学院 工学系研究科 機械工学専攻修了（修士（工学））
-- 2008.4-2012.3   東京大学 工学部 産業機械工学科修了（学士（工学））
+- 2021.4-現在
+  - 横浜国立大学大学院 理工学府 機械・材料・海洋系工学専攻 博士課程後期在学中
+- 2014.4-現在
+  - ロボティクスの研究開発プロジェクトに関する企画調整・試験評価業務に従事
+- 2012.4-2014.3
+  - 機械工学専攻にて修士（工学）取得
+  - 修論テーマ：再生医療のための細胞培養装置に関する研究
+- 2008.4-2012.3
+  - 機械工学科にて学士（工学）取得
+  - 卒論テーマ：再生医療のための細胞培養装置に関する研究
