@@ -11,7 +11,7 @@
 contact: kazuho.kobayashi.ynu[at]gmail.com
 
 ## 記録
-- [IEEE RAS Summer School on Multi Robot Systems 2023への参加記録](https://kazuho-koba.github.io/MRS-SummerSchool2023)
+- [IEEE RAS Summer School on Multi Robot Systems 2023への参加記録](https://kazuho-koba.github.io/MRS-SummerSchool2023.html)
 
 ## 出版物（筆頭のみ）
 - [全リスト](https://scholar.google.co.jp/citations?hl=ja&user=eyE2QcQAAAAJ&view_op=list_works&sortby=pubdate)
@@ -26,7 +26,7 @@ contact: kazuho.kobayashi.ynu[at]gmail.com
 - Kobayashi K, Higuchi T, Ueno S, "Connectivity Maintenance for Robotic Swarms by Distributed Role Allocation Algorithm," *Proceedings of the Joint Symposium of AROB-ISBC-SWARM2022*, pp.897-902, 2022, ([Full-text PDF](https://ynu.repo.nii.ac.jp/record/11601/files/AROB2022.pdf))
 
 ### その他の学会発表
-- 小林一穂, 上野誠也, 樋口丈浩, "群ロボットのパトロール行動評価における任務環境表現の影響," *第41回日本ロボット学会学術講演会*, 2023, 1K1-02, (Full-text PDF)
+- 小林一穂, 上野誠也, 樋口丈浩, "群ロボットのパトロール行動評価における任務環境表現の影響," *第41回日本ロボット学会学術講演会*, 2023, 1K1-02, ([Full-text PDF](https://ynu.repo.nii.ac.jp/record/2000122/files/RSJ_%E7%BE%A4%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E3%83%91%E3%83%88%E3%83%AD%E3%83%BC%E3%83%AB%E6%80%A7%E8%83%BD%E8%A9%95%E4%BE%A1%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BB%BB%E5%8B%99%E7%92%B0%E5%A2%83%E8%A1%A8%E7%8F%BE%E3%81%AE%E5%BD%B1%E9%9F%BF.pdf))
 - 小林一穂, 樋口丈浩, 上野誠也, "群ロボットのパトロール任務における基地局による状況認識の定量評価指標," *ロボティクス・メカトロニクス講演会2023*, 2023, 1P1-G01, ([Full-text PDF](https://ynu.repo.nii.ac.jp/record/2000024/files/1P1-G01.pdf))
 - 小林一穂, 樋口丈浩, 上野誠也, "基地局との接続を維持する群ロボットの分散・階層型巡回監視アルゴリズム," *第 35 回自律分散システム・シンポジウム予稿集*, 2023, pp.83-88, ([Full-text PDF](https://ynu.repo.nii.ac.jp/record/12282/files/1_1C2-2.pdf))
 
