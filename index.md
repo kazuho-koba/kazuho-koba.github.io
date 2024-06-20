@@ -17,7 +17,7 @@ contact: kazuho.kobayashi.ynu[at]gmail.com
 - [全リスト](https://scholar.google.co.jp/citations?hl=ja&user=eyE2QcQAAAAJ&view_op=list_works&sortby=pubdate)
 
 ### 論文（査読付き）
-- Kobayashi K, Ueno S, Higuchi T, "Multi-Robot Patrol with Continuous Connectivity and Assessment of Base Station Situation Awareness," *Journal of Robotics and Mechatronics*,
+- Kobayashi K, Ueno S, Higuchi T, "Multi-Robot Patrol with Continuous Connectivity and Assessment of Base Station Situation Awareness," *Journal of Robotics and Mechatronics*, Vol.36, no.3, pp-526-537, 2024, DOI: 10.20965/jrm.2024.p0526, ([web page](https://www.fujipress.jp/jrm/rb/robot003600030526/), [Full-text PDF](https://www.fujipress.jp/main/wp-content/themes/Fujipress/pdf_subscribed.php))
 - Kobayashi K, Higuchi T, Ueno S, "Hierarchical Control and Subgroup Formation for Robotic Swarms in Patrol Missions," *International Journal of Mechanical Engineering and Robotics Research*, vol.12, no.5, pp.258-263,2023, DOI: 10.18178/ijmerr.12.5.258-263, ([web page](http://www.ijmerr.com/show-232-1871-1.html), [Full-text PDF](http://www.ijmerr.com/2023/IJMERR-V12N5-258.pdf))
 - Kobayashi K, Higuchi T, Ueno S, "Connectivity maintenance for robotic swarms by distributed role switching algorithm," *Artificial Life and Robotics*, vol.27, no.4, pp.876-884, 2022, DOI: 10.1007/s10015-022-00803-5, ([web page](https://link.springer.com/article/10.1007/s10015-022-00803-5), [Full-text PDF](https://ynu.repo.nii.ac.jp/record/12170/files/Connectivity_Maintenance_for_Robotic_Swarms_by_Distributed_Role_Switching_Algorithm.pdf))
 
