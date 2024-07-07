@@ -43,7 +43,7 @@ contact: kazuho.kobayashi.ynu[at]gmail.com
 
 ## Career
 - April, 2024-
-  - Research Project Facilitator, for unmanned ground vehicles and military engineering equipment
+  - Research Project Facilitator, for unmanned ground vehicles and engineering equipment
 - April, 2021 - March, 2024
   - Department of Mechanical Engineering, Materials Science, and Ocean Engineering, Graduate School of Engineering Science, Yokohama National University
   - Received Ph.D., for "Study on Patrol Missions and Improvement of Base Station’s Situation Awareness by Multi-Robot Systems"
