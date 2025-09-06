@@ -13,6 +13,7 @@ contact: kazuho.kobayashi.ynu[at]gmail.com
 
 ## 記録
 - [IEEE RAS Summer School on Multi Robot Systems 2023への参加記録](https://kazuho-koba.github.io/MRS-SummerSchool2023.html)
+- [博士課程の感想](https://kazuho-koba.github.io/phd.html)
 
 ## 出版物（筆頭のみ）
 - [全リスト](https://scholar.google.co.jp/citations?hl=ja&user=eyE2QcQAAAAJ&view_op=list_works&sortby=pubdate)
